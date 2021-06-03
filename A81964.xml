@@ -1,0 +1,502 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-stylesheet type="text/css" href="http://www.textcreationpartnership.org/docs/code/pfs.css"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>The first days entertainment at Rutland-House, by declamations and musick: after the manner of the ancients. / By Sr VV.D.</title>
+            <author>D'Avenant, William, Sir, 1606-1668.</author>
+         </titleStmt>
+         <extent>Approx. 63 KB of XML-encoded text transcribed from 51 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2016-02">2016-02 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A81964</idno><idno type="EEBO-CITATION">99868000</idno>
+  <idno type="VID">170212</idno>
+  <idno type="EEBO-PROQUEST">2240941403</idno>
+  
+            <idno type="STC">Wing D323</idno>
+            <idno type="STC">Thomason E1648_2</idno>
+            <idno type="STC">ESTC R209100</idno>
+            <idno type="PROQUEST">99868000</idno>
+            <availability><p>This keyboarded and encoded edition of the work described above is co-owned by the
+    institutions providing financial support to the Early English Books Online Text Creation
+    Partnership. This text is available for reuse, according to the terms of <ref target="https://creativecommons.org/publicdomain/zero/1.0/"> Creative Commons 0 1.0 Universal
+    licence</ref>. The text can be copied, modified, distributed and performed, even for commercial
+    purposes, all without asking permission.</p></availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online text creation partnership.</title>
+         </seriesStmt>
+         <notesStmt><relatedItem type="facs" target="https://data.historicaltexts.jisc.ac.uk/view?pubId=eebo-99868000e"/>
+            <note>(EEBO-TCP ; phase 2, no. A81964)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 170212)</note>
+            <note>Images scanned from microfilm: (Thomason Tracts ; 207:E1648[2])</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>The first days entertainment at Rutland-House, by declamations and musick: after the manner of the ancients. / By Sr VV.D.</title>
+                  <author>D'Avenant, William, Sir, 1606-1668.</author>
+               </titleStmt>
+               <extent>[8], 86, [6] p.   </extent>
+               <publicationStmt>
+                  <publisher>Printed by J.M. for H. Herringman, and sold at his shop at the Anchor, in the New-Exchange, in the Lower Walk.,</publisher>
+                  <pubPlace>London, :</pubPlace>
+                  <date>1657. [i.e. 1656]</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Annotation on Thomason copy: "nouemb 22:"; the 7 in the imprint date has been crossed out and replaced with a "6".</note>
+                  <note>Reproduction of the original in the British Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,363 texts created during Phase 1 of the project have been released into the public domain as of 1 January 2015. Anyone can now take and use these texts for their own purposes, but we respectfully request that due credit and attribution is given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Full documentation of the original data capture process is available from the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.
+   All versions of the texts are now archived and freely available for download. See <ref target="https://textcreationpartnership.org/faq/#faq05">the TCP Download FAQ</ref>
+   for detailed information. The TEI P5 versions are also freely available from the <ref target="https://github.com/textcreationpartnership">TCP Github repository</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp" matchPattern="([0-9\-]+):([0-9IVX]+)" replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char" matchPattern="(.+)" replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term type="topical_term">Amusements --  England. --  17th century.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2013-09 </date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images </change>
+         <change>
+            <date>2014-07 </date>
+            <label>John Latta </label>Sampled and proofread </change>
+         <change>
+            <date>2014-07 </date>
+            <label>John Latta</label>Text and markup reviewed and edited </change>
+         <change>
+            <date>2015-03 </date>
+            <label>pfs</label>Batch review (QC) and XML conversion </change>
+      <change><date>2021-05 </date><label>lb</label>TEI P5 conversion </change></revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <front>
+         <div type="title_page">
+            <pb facs="tcp:170212:1"/>
+            <p>THE FIRST DAYS Entertainment AT Rutland-House, By <hi>Declamations</hi> and <hi>Musick:</hi> After the manner of the ANCIENTS.</p>
+            <p>
+               <hi>By</hi> S<seg rend="sup">r</seg>
+               <hi>VV. D.</hi>
+            </p>
+            <p>
+               <hi>LONDON,</hi> Printed by <hi>J. M.</hi> for <hi>H. Herringman,</hi> and sold at his Shop at the <hi>Anchor,</hi> in the <hi>New-Exchange,</hi> in the Lower Walk. 1655.</p>
+         </div>
+      </front>
+      <body>
+         <div type="masque">
+            <pb facs="tcp:170212:2"/>
+            <pb facs="tcp:170212:2"/>
+            <div type="prologue">
+               <stage>After a Flourish of Musick, the Cur<g ref="char:EOLhyphen"/>tains are Drawn, and the PROLOGUE enters.</stage>
+               <sp>
+                  <speaker>PROLOGUE.</speaker>
+                  <l>ME-thinks, as if assur'd of some disgrace,</l>
+                  <l>I should step back, ere scarce I shew my face:</l>
+                  <pb facs="tcp:170212:3"/>
+                  <l>'Tis not through terror, that I know not how</l>
+                  <l>To fashion my approaches, vail, and bow,</l>
+                  <l>But that displeasure in your looks I spy,</l>
+                  <l>Which seem to turn aside and stand awry.</l>
+                  <l>Ere yet we can offend, are we dis<g ref="char:EOLhyphen"/>grac'd?</l>
+                  <l>Or are our Benches, not your looks misplac'd?</l>
+                  <l>We wish we could have found this Roof so high,</l>
+                  <l>That each might be allow'd a Ca<g ref="char:EOLhyphen"/>nopy,</l>
+                  <l>And could the wals to such a wide<g ref="char:EOLhyphen"/>ness draw,</l>
+                  <l>That all might sit at ease in <hi>Chaise a bras.</hi>
+                  </l>
+                  <l>But though you cannot front our Cup-board-Scene,</l>
+                  <l>Nor sit so eas'ly as to stretch and lean;</l>
+                  <pb facs="tcp:170212:3"/>
+                  <l> Yet you are so divided and so plac'd,</l>
+                  <l>That half are freely by the other fac'd;</l>
+                  <l>And we are shrewdly jealous that you come</l>
+                  <l>Not meerly to hear us, or see the Room;</l>
+                  <l>But rather meet here to be met, I mean,</l>
+                  <l>Each would see all, and would of all be seen.</l>
+                  <l>Which we but guess, respectfully, to shew</l>
+                  <l>You worthy of your selves, not we of you.</l>
+                  <l>Think this your passage, and the narrow way</l>
+                  <l>To our Elisian Field, the <hi>Opera:</hi>
+                  </l>
+                  <l>Tow'rds which some say we have gone far about,</l>
+                  <l>Because it seems so long since we set out.</l>
+                  <pb facs="tcp:170212:4"/>
+                  <l> Think now the way grown short, and that you light</l>
+                  <l>At this small Inn, to bait, not stay all night:</l>
+                  <l>Where you shall find, what you will much despise;</l>
+                  <l>The Host grown old, and worse then old, half wise.</l>
+                  <l>Still former times applauds, the present blames;</l>
+                  <l>And talks so long, that he (indeed) Declaims.</l>
+                  <l>From Declamations of a long hours length,</l>
+                  <l>Made strong to last, by some dead Authors strength,</l>
+                  <l>Not pow'rful to perswade, but to provoke;</l>
+                  <l>Long, grave, and sullen as a mour<g ref="char:EOLhyphen"/>ning Cloak;</l>
+                  <l>I wish, if possible, you could scape free;</l>
+                  <l>But, plainly, and in brief, it can<g ref="char:EOLhyphen"/>not be.</l>
+                  <pb facs="tcp:170212:4"/>
+                  <l> These you must please to hear, and have no way</l>
+                  <l>To give the anguish of your Ears allay,</l>
+                  <l>But by our <hi>Rostra's,</hi> to remember <hi>Rome;</hi>
+                  </l>
+                  <l>Then hope, such mighty minds in time may come</l>
+                  <l>As think it equal glory to take care</l>
+                  <l>To speak wise things, as to do great in war:</l>
+                  <l>Declaming well on what they well have done;</l>
+                  <l>Being best guides where they the race have run:</l>
+                  <l>Quickning by influence of their Noble deeds</l>
+                  <l>Glory in others, till it Vertue breeds:</l>
+                  <l>VVhat do I mean? Sure there is somthing here</l>
+                  <l>Has such infection as I ought to fear!</l>
+                  <pb facs="tcp:170212:5"/>
+                  <l> Here I a short and bashful <hi>Pro<g ref="char:EOLhyphen"/>logue</hi> came;</l>
+                  <l>But strait grow long and bold; that is, <hi>Declame.</hi>
+                  </l>
+                  <l>VVhat patience can endure speech bold and long,</l>
+                  <l>VVhere sence is weak too, when the Lungs are strong?</l>
+                  <l>Yet this will rare abridgement seem in me,</l>
+                  <l>When four shall come and talk a History.</l>
+                  <l>VVell, I have now devis'd, for your relief,</l>
+                  <l>How you shall make these long <hi>De<g ref="char:EOLhyphen"/>claimers,</hi> brief;</l>
+                  <l>VVhen you perceive their voices fall with fear,</l>
+                  <l>(As not accustom'd to the Publike-Ear)</l>
+                  <l>And that they pause, grow pale, and look about;</l>
+                  <l>Laugh but aloud, and you will put them out.</l>
+                  <stage>The Curtains are clos'd again.</stage>
+               </sp>
+            </div>
+            <div type="scene">
+               <pb n="1" facs="tcp:170212:5"/>
+               <stage>A Consort of Instru<g ref="char:EOLhyphen"/>mental Musick, adapted to the sullen Disposition of <hi>Dio<g ref="char:EOLhyphen"/>genes,</hi> being heard a while, the Curtains are suddenly open'd,
+<pb n="2" facs="tcp:170212:6"/>and in two guilded <hi>Rostras</hi> appear sit<g ref="char:EOLhyphen"/>ting, <hi>Diogenes</hi> the Cynick, and <hi>Aristo<g ref="char:EOLhyphen"/>phanes</hi> the Poet, in Habits agreeable to their Country and Professions: who Declaim <hi>Against,</hi> and <hi>For Publique Entertainment</hi> by <hi>Moral Representa<g ref="char:EOLhyphen"/>tions.</hi>
+               </stage>
+               <sp>
+                  <pb n="3" facs="tcp:170212:6"/>
+                  <speaker>Diogenes.</speaker>
+                  <p>
+                     <seg rend="decorInit">I</seg> Would you were all old, that ha<g ref="char:EOLhyphen"/>ving more expe<g ref="char:EOLhyphen"/>rience, I might take less pains to make you wise. Or I would you were all poor, that not being diverted by the gaudy emulations of your wealth, you might minde <hi>Dio<g ref="char:EOLhyphen"/>genes;</hi> who, you know, has nothing, unless (most thrifty <hi>Athenians</hi>) you allow me that, which I wish you could spare, <hi>Understanding.</hi> But why should I desire your attention? For
+<pb n="4" facs="tcp:170212:7"/>considering that when you are asleep, you neither hurt your friends, nor provoke your ene<g ref="char:EOLhyphen"/>mies, I think 'tis scarce discreti<g ref="char:EOLhyphen"/>on to keep you awake. Yet pre<g ref="char:EOLhyphen"/>suming I am now in the pub<g ref="char:EOLhyphen"/>like <hi>Rostra,</hi> as securely fortifi'd as in my private Tub; I will venture to bid you observe, that you are met to hear what your Cynick <hi>Diogenes,</hi> and the Poet <hi>Aristophanes</hi> can say, against and for, publike Entertainment by <hi>Moral Representations.</hi>
+                  </p>
+                  <p>Can any Entertainment di<g ref="char:EOLhyphen"/>vert you from the mischief to which you are excellently in<g ref="char:EOLhyphen"/>clin'd when you meet in pub<g ref="char:EOLhyphen"/>lique? Are not the Winds your Orators, and you their many<g ref="char:EOLhyphen"/>headed Waves that meet not but in foam and rage? Have you not yet distinguish'd the
+<pb n="5" facs="tcp:170212:7"/>modesty and wariness of soli<g ref="char:EOLhyphen"/>tude from the impudence and rashness of Assemblies? Do you not, when alone, design wreaths to the vertue of those, whom, when you are assembled, you reward with <hi>Ostracisme?</hi> As if the mingled breath of multi<g ref="char:EOLhyphen"/>tude were so contagious, that it infected reason as wel as blood. Beasts of <hi>Athens,</hi> Are you not made gentle, when bred single, and continue wilde whilst you are in Herds? When you are alone, perhaps some of you have judgment to consider, that the wisdom of Governours is encreas'd by their long continu<g ref="char:EOLhyphen"/>ance in power, therefore they ought seldom to be chang'd, but when you meet in the <hi>Agora,</hi> to make up the Body-Politique, 'tis like the meeting of humours in
+<pb n="6" facs="tcp:170212:8"/>the Natural Body, all tending to commotion, change and dis<g ref="char:EOLhyphen"/>solution. There is your annual Feast, where you devour your Governours, or shift them nim<g ref="char:EOLhyphen"/>bly, as your Trenchers, before they are foul. Most mischie<g ref="char:EOLhyphen"/>vous Athenians! Meet not at all. Man, when alone, is per<g ref="char:EOLhyphen"/>haps not wholly a Beast; but Man meeting Man till he grows to a Multitude, is certainly more then a Monster.</p>
+                  <p>O Number, Number! when it consists of men, how accurst are those who trust to it? If for Wisdom, who will rely upon determination, where the dif<g ref="char:EOLhyphen"/>ference of opinions doth often equal the variety of faces? If for strength, call XERXES, and bid him, if he dares, come back again with his half of man<g ref="char:EOLhyphen"/>kinde
+<pb n="7" facs="tcp:170212:8"/>into Greece. In numerous Councils you give countenance to each other, to dare to do in<g ref="char:EOLhyphen"/>justice; where you each take anger as you catch yawning, meerly by seeing it in another. In Armies, the number doth of<g ref="char:EOLhyphen"/>ten tend more to famine then to strength. Fear (which is in Armies as infectious, as Opini<g ref="char:EOLhyphen"/>on in Councills) is quickly dis<g ref="char:EOLhyphen"/>perst, whilst all depending on their multitude, are defeated, because each trusted to others, and none to themselves.</p>
+                  <p>But <hi>Athenians,</hi> I am old, I want memory, and have displac'd my thoughts; for I intended not to declaim against Assemblies, in Civil Councils, or in Military attempts; but a<g ref="char:EOLhyphen"/>gainst such as meet for Recrea<g ref="char:EOLhyphen"/>tion: In defence of which the
+<pb n="8" facs="tcp:170212:9"/>Poet <hi>Aristophanes</hi> is arrogantly resolv'd to plead. What need you publique Recreations? If you are old, you are past the days of mirth, and are come to the Evenings of contemplation; and contemplation requires so<g ref="char:EOLhyphen"/>litude. If you are young, 'tis your time to grow solemn, which is, to become old betimes, that you may more willingly entertain Age when you are forc'd to feel it. If you had Philosophy enough to make you humble; you would avoid such publique Assemblies as tempt you to that cost in Vests and Ornaments, which occasi<g ref="char:EOLhyphen"/>ons the emulations of pride. If you have so little Philosophy as to desire to be very rich, you would prevent that vain ex<g ref="char:EOLhyphen"/>pence. If you would live in
+<pb n="9" facs="tcp:170212:9"/>peace and power, why by such excesses, do you enrich Retayl<g ref="char:EOLhyphen"/>ers and Mechanicks, whose sud<g ref="char:EOLhyphen"/>den acquisition of wealth makes them too proud to be obedient, and too fantastical to be quiet? If you have business, what do you here? If you have none, what do you in <hi>Athens?</hi> where wealth is not to be got with idle<g ref="char:EOLhyphen"/>ness, nor the Wars maintain'd without wealth.</p>
+                  <p>But you would meet to re<g ref="char:EOLhyphen"/>ceive entertainment from such as represent the vertuous acti<g ref="char:EOLhyphen"/>ons of the <hi>Heroes.</hi> Is not Ver<g ref="char:EOLhyphen"/>tue esteem'd in <hi>Athens</hi> but as the particular humour of Philo<g ref="char:EOLhyphen"/>sophers? And though it may please some few who study it, yet, because 'tis singular, it doth offend the generality; and 'tis safe in popular Governments,
+<pb n="10" facs="tcp:170212:10"/>to content the people too, though to their own prejudice, who perhaps too can hardly be said to be prejudic'd, when they have no sense of their harm. If Vertue should be drest in such a fashion as all should be pro<g ref="char:EOLhyphen"/>vok'd to like her, you might o<g ref="char:EOLhyphen"/>pen the Gates of <hi>Athens</hi> to her spiritual Tire-women, the Mu<g ref="char:EOLhyphen"/>ses, and let them work freely to her. But since many have very vainly endeavour'd to make her amiable to all, let the Lady Vertue shrink up her white shoulders, put on her black Hood, and retire to her Closet.</p>
+                  <p>But you would meet to be<g ref="char:EOLhyphen"/>hold Vertue in the bright Ima<g ref="char:EOLhyphen"/>ges of the Heroes. Gentlemen of <hi>Athens!</hi> Be not at charge to pay for glasses, which shall ren<g ref="char:EOLhyphen"/>der you the reflection of better
+<pb n="11" facs="tcp:170212:10"/>faces then your own, lest you give your selves an uncomfor<g ref="char:EOLhyphen"/>table occasion to blush. 'Tis discretion, if you have any im<g ref="char:EOLhyphen"/>perfection, to keep at distance from that excellence to which others may compare you. Be you contented without seeing the Heroes; and let them be sa<g ref="char:EOLhyphen"/>tisfi'd with the reward of their vertues. Are they not made Stars and Statues? Let them shine in the Firmament, and rest in our Temples: But what need they be personated, and intrude into our Theaters, to disgrace us? If you are exceedingly in<g ref="char:EOLhyphen"/>clin'd to think that you may draw a benefit from great ex<g ref="char:EOLhyphen"/>amples, and are resolv'd to raise the Heroick Ghosts, in hope they will lead you to the hidden treasures of Vertue; pursue the
+<pb n="12" facs="tcp:170212:11"/>experiment, and the next day, after you have paid your mo<g ref="char:EOLhyphen"/>ney in Theaters, cast up your account, and see what you have got by your Dream. I suspect that your remembrance of the Worthies will vanish, and be as short as the Vision. The Ghost of <hi>Hercules</hi> rais'd by a Poet, can no more make you laborious and patient, then a Rose or Let<g ref="char:EOLhyphen"/>tice, rais'd in a Glass by a Chy<g ref="char:EOLhyphen"/>mist, can make you sweet, or serve you for a salade.</p>
+                  <p>
+                     <hi>Aristophanes</hi> will perhaps make you a small present of an<g ref="char:EOLhyphen"/>other pretext in behalf of the <hi>Opera;</hi> which is, That it will introduce Civility. But because there are some Beasts in <hi>Athens,</hi> does he take us all for Bears? We eat not raw flesh, nor live without distinctions of alliance.
+<pb n="13" facs="tcp:170212:11"/>What means he by Civility? Would he make an Art of ex<g ref="char:EOLhyphen"/>ternal behaviour, and have it read in the Schools? Would he prescribe you a certain comly posture in your sleep, and not to wake without a long com<g ref="char:EOLhyphen"/>plement to your Chamber-Grooms? Would he not have you cough but when alone, or if in publique, then with a mu<g ref="char:EOLhyphen"/>sical concordance to the rest that have taken cold? Would he have you at Table carve with your arm a little extended, as if you were nicely to finish a touch in painting; or more at stretch, as if you were to fence for your meat? Would he make a Science of Saluation, and draw it out to such a length, as if when you met you were al<g ref="char:EOLhyphen"/>waies treating to reconcile Em<g ref="char:EOLhyphen"/>pires;
+<pb n="14" facs="tcp:170212:12"/>or when you take leave, you were concern'd as Kings that depart from their Daugh<g ref="char:EOLhyphen"/>ters when they are marry'd by Proxy, and imbarking for ano<g ref="char:EOLhyphen"/>ther Climate? Where will be the end of excesses in civility? Is not extraordinary Civility imputed to Courts as dissimula<g ref="char:EOLhyphen"/>tion? Subtle <hi>Athenians!</hi> If you will learn to be very civil, which is, to dissemble with a good grace, yet know, that dis<g ref="char:EOLhyphen"/>simulation is a kind of black Art, which you must study in private. Let the people be rude still, for if, by suffering it to be taught in publique, we refine their craftiness with Civility, you must ere long fling away your Night-caps, and sleep in your Helmets.</p>
+                  <p>Would you meet to enjoy
+<pb n="15" facs="tcp:170212:12"/>the pleasure of Musick? 'tis a deceitful Art, whose operations lead to the evil of extreams, making the Melancholy to be<g ref="char:EOLhyphen"/>come mad, and the merry to grow fantastical. Our Cities ancient stamp, the <hi>Owl</hi> (which bears no part in the merry Quires of the Woods) denotes the Wisdom, not the mirth of <hi>Athens.</hi> I would have the peo<g ref="char:EOLhyphen"/>ple of <hi>Athens,</hi> from the Mason to the Merchant, look as grave and thoughtful as rich Mourn<g ref="char:EOLhyphen"/>ers. They should all seem Priests in the Temples, Philo<g ref="char:EOLhyphen"/>sophers in their Houses, and States-men in the streets. Then we should not need to be at ex<g ref="char:EOLhyphen"/>pence of publique Magistrates; but every man would be freely forward to rule another, and in time grow to such a height and
+<pb n="16" facs="tcp:170212:13"/>ability in Government, as we should by degrees banish the whole City; and that <hi>Ostracism</hi> were happy preferment; for the rest of the world would soon invite us to rule them.</p>
+                  <p>Does not the extasie of Mu<g ref="char:EOLhyphen"/>sick transport us beyond the Regions of Reason? Changing the sober designs of discretion into the very wildeness of dreams; urging softer minds to aim at the impossible successes of Love; and enkindling in the active the destructive ambi<g ref="char:EOLhyphen"/>tions of War? Does it not turn the heads of the young till they grow so giddy, as if they walk'd on pinacles; and often divert the feet of the aged from a Funeral to a wedding? And consider (my malicious friends of <hi>Athens</hi>) how you would look,
+<pb n="17" facs="tcp:170212:13"/>if you should see me, at the meer provocation of a Fiddle, lead out a Matron to dance at the marriage of an old Philoso<g ref="char:EOLhyphen"/>phers widdow.</p>
+                  <p>Would you meet to be de<g ref="char:EOLhyphen"/>lighted with Scaenes? which is, to be entertain'd with the dece<g ref="char:EOLhyphen"/>ption of motion, and transposi<g ref="char:EOLhyphen"/>tion of Lights; where, whilst you think you see a great Bat<g ref="char:EOLhyphen"/>tel, you are sure to get nothing by the Victory. You gaze on imaginary Woods and Me<g ref="char:EOLhyphen"/>dows, where you can neither fell nor mowe. On Seas, where you have no Ships, and on Ri<g ref="char:EOLhyphen"/>vers, where you catch no Fish. But, you may finde it more pro<g ref="char:EOLhyphen"/>fitable to retire to your Houses, and there study how to gain by deceiving others, then to meet in Theaters, where you must
+<pb n="18" facs="tcp:170212:14"/>pay for suffering your selves to be deceiv'd. This, <hi>Athenians!</hi> concerns your profit; which is a word you understand better then all the Grammarians in Greece. And though the ways towards profit are somwhat dark, yet you need no light from me, which made me pre<g ref="char:EOLhyphen"/>sume to leave my Lanthorn at home.</p>
+                  <p>Vertue, in those Images of the <hi>Heroes,</hi> adorn'd with that Musick, and these Sceans, is to be enliven'd with Poetry. Poe<g ref="char:EOLhyphen"/>try is the subtle Engine by which the wonderful Body of the <hi>Opera</hi> must move. I wish, <hi>Athenians!</hi> you were all Poets, for then, if you should meet, and with the pleasant vapours of <hi>Lesbian</hi> wine, fall into pro<g ref="char:EOLhyphen"/>found sleep, and concur in a
+<pb n="19" facs="tcp:170212:14"/>long Dream, you would ere morning, enamel your Houses, tile them with Gold, and pave them with Aggots. This is the way by which the Poets would make you all exorbitantly rich. Yet I doubt you are so malici<g ref="char:EOLhyphen"/>ous as to think, if <hi>Homer, Hesi<g ref="char:EOLhyphen"/>od,</hi> and six more of the Anci<g ref="char:EOLhyphen"/>ent (I dare not suspect the Mo<g ref="char:EOLhyphen"/>dern) were harnast in a Teem, they would prove too weak to draw the weight of a single Ta<g ref="char:EOLhyphen"/>lent out of <hi>Athens.</hi> I allow that in a City where divers are more then somwhat guilty, you may suppose Satyrs a profita<g ref="char:EOLhyphen"/>ble commodity for the Pub<g ref="char:EOLhyphen"/>lique; but am confident a whole Ream of Odes and Epigrams will not be held, by any man here, a sufficient pawn for a <hi>Drachma.</hi>
+                  </p>
+                  <pb n="20" facs="tcp:170212:15"/>
+                  <p> I conceive you have now heard me as frowardly as you use to hear the Ambassadors of <hi>Sparta,</hi> from whom you seldom like any thing but their brevity. I shall leave the advantage on your side; for if my advice be bad, 'tis too late for me to re<g ref="char:EOLhyphen"/>cal it; if good, you have time enough to follow it. Go home, and consider; but I fear your Houses are so spacious, and so fine, as they will divert your Understanding. Though you are willing to perceive that you have no necessity to consider me: Yet I am sure I shall have continual occasion to study you; therefore am resolv'd to contract my self, and retire to my Tub.</p>
+               </sp>
+               <stage>
+                  <pb n="21" facs="tcp:170212:15"/> A Consort of Mu<g ref="char:EOLhyphen"/>sick, befitting the pleasant Disposition of <hi>Aristophanes,</hi> being heard, he thus answers.</stage>
+               <sp>
+                  <speaker>Aristophanes.</speaker>
+                  <p>REnown'd <hi>Athenians!</hi> how vainly were you assembled here, if you met to be made
+<pb n="22" facs="tcp:170212:16"/>wise by <hi>Diogenes?</hi> and how much more vainly should I ascend the <hi>Rostra,</hi> if I sought to inform your Understanding concerning him, or reform his concerning himself? <hi>Diogenes</hi> came to perswade you to suspect the good effects of Assemblies, and I come to accuse him of the evils of Solitude. In which I am prevented by his own beha<g ref="char:EOLhyphen"/>viour; for you have found him, like a Man sure to be con<g ref="char:EOLhyphen"/>demn'd, reviling even you his Judges; as pitifully froward as children suddenly wak'd, and as weakly malicious as Witches when they are mock'd. He will quarrel with the winde, meerly for playing with his Beard, and in his Age, studies revenge on the posterity of his dead Pe<g ref="char:EOLhyphen"/>dant, for chastisements receiv'd
+<pb n="23" facs="tcp:170212:16"/>in his youth. 'Tis well that Nature hath inclin'd mischie<g ref="char:EOLhyphen"/>vous men, as well as Beasts of Prey, to live alone; for if the one should be conversable, and the other walk in Herds, Man<g ref="char:EOLhyphen"/>kinde might by the first be per<g ref="char:EOLhyphen"/>swaded from the true use of Natural Reason, and, by the second, be forc'd from the ori<g ref="char:EOLhyphen"/>ginal inheritance of Natural Power.</p>
+                  <p>But as sullen <hi>Diogenes</hi> is by Nature secretly urg'd to live a<g ref="char:EOLhyphen"/>lone, so those who are not mis<g ref="char:EOLhyphen"/>govern'd by passion, have an in<g ref="char:EOLhyphen"/>stinct to communication, that by vertuous emulations each may endeavour to become the best example to the rest; for men meet not to see them<g ref="char:EOLhyphen"/>selves, but to be seen by others, and probably he who doth ex<g ref="char:EOLhyphen"/>pose
+<pb n="24" facs="tcp:170212:17"/>himself to be a publique object, will strive to excel be<g ref="char:EOLhyphen"/>fore he appears. Other crea<g ref="char:EOLhyphen"/>tures of the most pacifique spe<g ref="char:EOLhyphen"/>cies incline to society, that they may delight in each others safe<g ref="char:EOLhyphen"/>ty, whilst they are protected by their conjunction of strength. 'Tis not my Theam to declaim of the abuse or use of Number in Civil Councils, or Military attempts: And since <hi>Diogenes</hi> was constrain'd to excuse his digression by accusing his me<g ref="char:EOLhyphen"/>mory, I shall learn to avoid such presumption as must shamefully require your par<g ref="char:EOLhyphen"/>don; and will not treat of bu<g ref="char:EOLhyphen"/>fie, but pleasant Assemblies; and particularly of such as meet for recreation by Moral Repre<g ref="char:EOLhyphen"/>sentations.</p>
+                  <p>But <hi>Diogenes</hi> is implacably
+<pb n="25" facs="tcp:170212:17"/>offended at Recreation. He would have you all hous'd like himself, and every man stay at home in his Tub. He thinks your dwellings so large as they divert your contemplation; and perhaps imagines that the Creation hath provided too much room; that the Air is too spacious for Birds, the Woods for Beasts, and the Seas for Fish; especially, if their various motion in enjoying their large Elements contribute to what he esteems vain idleness, Recreati<g ref="char:EOLhyphen"/>on. This discontented Cynick would turn all time into mid<g ref="char:EOLhyphen"/>night, and all learning into me<g ref="char:EOLhyphen"/>lancholy Magick. He is so of<g ref="char:EOLhyphen"/>fended at Mirth, as if he would accuse even Nature her self to want gravity, for bringing in the Spring so merrily with the
+<pb n="26" facs="tcp:170212:18"/>Musick of Birds. When you are young, he would have you all seem old, and formal as sim<g ref="char:EOLhyphen"/>ple men in authority. When you are old, he would bring you back to the crying condition of children, as if you were alwaies breeding Teeth. Nor hath he forgot to dispose of middle age, when the ripeness of mind and body makes you most suffi<g ref="char:EOLhyphen"/>cient for the difficult toyls of affairs: for in this season of la<g ref="char:EOLhyphen"/>borious life, he would use you worse then Beasts; who are al<g ref="char:EOLhyphen"/>low'd Bells with their heavie packs, and entertain'd with whistling, when they are driven with Goads.</p>
+                  <p>Gentlemen of <hi>Athens!</hi> If you would admit the deform'd disposition of <hi>Diogenes</hi> under the pleasant shape of humour;
+<pb n="27" facs="tcp:170212:18"/>or rather, if you would vouch<g ref="char:EOLhyphen"/>safe to give him authority and let him have time and counte<g ref="char:EOLhyphen"/>nance to breed and enlarge a Melancholy Sect; you would finde the people so apt to nou<g ref="char:EOLhyphen"/>rish the seed of small evil, till it multiply to extreams, that you should not need to be at ex<g ref="char:EOLhyphen"/>pence of Executioners, nor Executioners be at cost to buy the juice of Hemlock to dis<g ref="char:EOLhyphen"/>patch offenders; for we should all grow most couragiously sad, and very bountifully hang and drown our selves at our own charge.</p>
+                  <p>He would have you abstain from such publique Assemblies, that you might avoid the costs of Vests and Ornaments, which he traduces, as occasioning the emulations of pride. Can large
+<pb n="28" facs="tcp:170212:19"/>Dominions be continu'd with<g ref="char:EOLhyphen"/>out distinction of qualities? And can the people distinguish more immediately then by their eyes; which are alwaies sooner satisfi'd with shape then sub<g ref="char:EOLhyphen"/>stance? And are they not safer entertain'd with what they in<g ref="char:EOLhyphen"/>stantly admire, then with that which bufies their judgement? If external glory and gaudery be pride, we learn it there where there is no sin; for Nature, who cannot err, ordain'd the pat<g ref="char:EOLhyphen"/>terns, even in the various and gaudy ornaments of Birds and Flowers; or if excelling orna<g ref="char:EOLhyphen"/>ment offend him, why looks he upward to the Stars; since of the greatest part of their infinite number, it is hard to finde any other use then that of beautify<g ref="char:EOLhyphen"/>ing and adorning the world?
+<pb n="29" facs="tcp:170212:19"/>Whilst he scorns pride, he is ignorant that 'tis commonly but by a kinde of pride more refin'd that men disdain the proud. Most just <hi>Athenians!</hi> I cannot forfeit your esteem, if I convince not <hi>Diogenes;</hi> who will not be instructed by the work of Nature, nor could be corrected by the rebuke of <hi>Plato.</hi>
+                  </p>
+                  <p>He conjures you, if you would preserve your peace and power, to refrain from those Assemblies which occasion such emulation of expence as may enrich Retaylers and Me<g ref="char:EOLhyphen"/>chanicks: as if the wealth of the people did not make them cautious of innovation, and slow to Insurrection; who re<g ref="char:EOLhyphen"/>bel to get that from others, which makes them obedient
+<pb n="30" facs="tcp:170212:20"/>when it becomes their own The wealth of the eminent, con<g ref="char:EOLhyphen"/>tracted and retain'd, offends the people; but being disperst and apparently spent, prevents their jealousie that 'tis more then is suspected; and takes away their envie, by giving them evidence that it will grow less: and none will believe expence superflu<g ref="char:EOLhyphen"/>ous, who think it necessary to gain by what is spent. When the Laws enjoyn frugality to the Rich, they provide well for particular Families, but ill for the publique.</p>
+                  <p>He next takes care you should not assemble, especially at Representations of the acti<g ref="char:EOLhyphen"/>ons of the <hi>Heroes.</hi> And in the progress of his discourse, meets the Lady Vertue and takes her aside, as if he were to examine
+<pb n="31" facs="tcp:170212:20"/>a meer stranger; as if, because she was not of his acquaintance, therefore she had never been in <hi>Athens;</hi> or at least was so au<g ref="char:EOLhyphen"/>stere in her garments and beha<g ref="char:EOLhyphen"/>viour, that she seem'd only fit for the company of old Philo<g ref="char:EOLhyphen"/>sophers. Noble <hi>Athenians!</hi> You all know that her delight<g ref="char:EOLhyphen"/>ful maids, the <hi>Muses,</hi> have given her a pleasant and familiar Dress; and, I know, you will provide her such a Palace, as <hi>Diogenes</hi> shall not need to straiten himself by inviting her to his <hi>Tub.</hi>
+                  </p>
+                  <p>He again forewarns you from beholding her in the shining shapes of the <hi>Heroes;</hi> as if, because his own eyes are weak, he may therefore think yours so sore, as it would hurt them to behold the light. Or,
+<pb n="32" facs="tcp:170212:21"/>as if the Heroick Ghosts were insolently rais'd by the Poets in such angry shapes, as rather serve to upbraid your defects, then to encourage your endea<g ref="char:EOLhyphen"/>vours for perfection. Or, as if active examples are reviv'd in vain, and seem not more pre<g ref="char:EOLhyphen"/>valent then written precepts; yet the first invite imitation by shewing experienc'd possibility in the utmost attempts of Ver<g ref="char:EOLhyphen"/>tue; and the latter, but pre<g ref="char:EOLhyphen"/>sumptuously draw a Map of an unsteer'd Course to an ima<g ref="char:EOLhyphen"/>gin'd Coast. Heroick Vertue, when 'tis busie in the open World is more deserving (be<g ref="char:EOLhyphen"/>cause more laborious, and less safe) then when she lazily re<g ref="char:EOLhyphen"/>tires to the Cells of contempla<g ref="char:EOLhyphen"/>tive Cowards; who securely sit and write against those dan<g ref="char:EOLhyphen"/>gers
+<pb n="33" facs="tcp:170212:21"/>of temptation from which, out of fear, they have hastily and meanly fled. He would likewise infer, that the great ex<g ref="char:EOLhyphen"/>amples of Elder Times are vainly presented, because, be<g ref="char:EOLhyphen"/>ing so remote, they are less cre<g ref="char:EOLhyphen"/>dible. But he forgets to ob<g ref="char:EOLhyphen"/>serve that envie will more pa<g ref="char:EOLhyphen"/>tiently behold great actions in the Ancients, who cannot hin<g ref="char:EOLhyphen"/>der our pretences, then in those of our own Times, who per<g ref="char:EOLhyphen"/>haps are our Competitors for the rewards of Vertue as well as Rivals to her person.</p>
+                  <p>He next grows angry, not at the pretence which publique Entertainments make to intro<g ref="char:EOLhyphen"/>duce Civility; but at Civility it self; loving so barbarously the uncleanly case of his own life, that he cares not how
+<pb n="34" facs="tcp:170212:22"/>much inconvenience it gives to the lives of others. If the <hi>E<g ref="char:EOLhyphen"/>phori</hi> and Kings of <hi>Sparta</hi> invi<g ref="char:EOLhyphen"/>ted him to their Mess, he would for indecencies sake eat their Broth without a Spoon. He often commends the ancient use of Fingers, that by tearing his meat, he may save the la<g ref="char:EOLhyphen"/>bour of whetting his knife. Ne<g ref="char:EOLhyphen"/>ver washes any thing but his Beard, and that too in the Bowl where he drinks to his betters. He lets his Nails grow to the length of Talons, seizing and snatching his meat at ano<g ref="char:EOLhyphen"/>thers Table, as if it were his Prey. And is against the Ci<g ref="char:EOLhyphen"/>vility of making a Stranger en<g ref="char:EOLhyphen"/>ter a House before the Owner, because the Cooper built not his to contain more then him<g ref="char:EOLhyphen"/>self. He terms it brevity, and
+<pb n="35" facs="tcp:170212:22"/>saving of time, to salute a Ma<g ref="char:EOLhyphen"/>gistrate with no more then a Nod; and; only for laziness, a<g ref="char:EOLhyphen"/>voids common. Salutation. Judge you (most civil <hi>Atheni<g ref="char:EOLhyphen"/>ans!</hi>) whether cleanness be inconvenient, because he im<g ref="char:EOLhyphen"/>putes it as a troublesome part of Civility. Or whether Sa<g ref="char:EOLhyphen"/>lutation should be prohibited, because somtimes, where the dignities are equal, it draws re<g ref="char:EOLhyphen"/>spect into length. Or whether length of respect is not necessa<g ref="char:EOLhyphen"/>ry, to shew the distinctions of quality? Or rather, whether distinctions of quality tend not to the conservation of Govern<g ref="char:EOLhyphen"/>ment? without which, Gover<g ref="char:EOLhyphen"/>nours would soon grow weary for want of obedience, and Age retire to the Grave for want of reverence.</p>
+                  <pb n="36" facs="tcp:170212:23"/>
+                  <p> He proceeds next against the Ornaments of a publique <hi>Ope<g ref="char:EOLhyphen"/>ra,</hi> Musick and Scenes. But how can he avoid the traducing of Musick, who hath alwaies a Discord within himself, and which seems so loud too, as if it would, a mile off, untune the harmonious soul of <hi>Plato.</hi> Mu<g ref="char:EOLhyphen"/>sick doth not heighten Melan<g ref="char:EOLhyphen"/>choly into Madness, but rather unites and recollects a broken and scatter'd minde; giving it sudden strength to resist the e<g ref="char:EOLhyphen"/>vils it hath long and strongly bred. Neither doth it make the merry seem fantastical, but only to such as are enviously sad at the pleasure of others. If it doth warm the ambitious when they are young, 'tis but as cordials warm the blood, to make it evaporate the evil hu<g ref="char:EOLhyphen"/>mour.
+<pb n="37" facs="tcp:170212:23"/>If it awake hope in the Aged (where hope is fallen a<g ref="char:EOLhyphen"/>sleep, and would take rest) we may therefore say (since hope is the vital heat of the minde) that it prolongs life where it would slothfully expire. Nor need <hi>Diogenes</hi> suspect that it may make his bones ake, by seducing him to a dance; for he can on<g ref="char:EOLhyphen"/>ly lift up his feet to a dismal discord, or dance to a consort of groaners and gnashers of Teeth.</p>
+                  <p>He is offended at Scenes in the <hi>Opera,</hi> as at the useless Visi<g ref="char:EOLhyphen"/>ons of Imagination. Is it not the safest and shortest way to understanding, when you are brought to see vast Seas and Provinces, Fleets, Armies, and Forts, without the hazards of a Voyage, or pains of a long
+<pb n="38" facs="tcp:170212:24"/>March? Nor is that deception where we are prepar'd and con<g ref="char:EOLhyphen"/>sent to be deceiv'd. Nor is there much loss in that deceit, where we gain some variety of experience by a short journey of the sight. When he gives you advice not to lay out time in prospect of Woods and Me<g ref="char:EOLhyphen"/>dows, which you can never possess, he may as well shut up his own little Window (which is the Bung-hole of his Tub) and still remain in the dark, because the light can only shew him that which he can neither purchase nor beg.</p>
+                  <p>This worst <hi>Athenian</hi> (whom you have long contemn'd as your Suburb-dog) hath all this while but bark'd at the Muses. In the end of his discourse he offers to bite and worry Poe<g ref="char:EOLhyphen"/>try;
+<pb n="39" facs="tcp:170212:24"/>yet, 'tis only with his Gums, for his Teeth are lost; why should a Cynick, who ap<g ref="char:EOLhyphen"/>plauds poverty in himself, dis<g ref="char:EOLhyphen"/>dain it in others? He pretends to make it his business to seek out Poverty, and to Court her in publique; but the Poets, having more wit then the Cy<g ref="char:EOLhyphen"/>nicks, only entertain her when she finds out them, and then but in private. Or perhaps Poets, the busie Secretaries of Nature, are so intentively employ'd in providing for the general happiness of human kinde, that they have no lei<g ref="char:EOLhyphen"/>sure to make provisions for themselves. He upbraids that Art which may be said to be the only Art of Nature; which elevates the harmony of Reason, and makes even
+<pb n="40" facs="tcp:170212:25"/>the severities of Wisdom pleasant. But, excellent <hi>A<g ref="char:EOLhyphen"/>thenians!</hi> It were an unpar<g ref="char:EOLhyphen"/>donable want of judgement in me, to tire you with de<g ref="char:EOLhyphen"/>fending that which you already know needs no defence. And my presumption is less to be forgiven in having dar'd to rescue that from the rage of <hi>Diogenes,</hi> which you have long taken into your own protecti<g ref="char:EOLhyphen"/>on: therefore, instead of de<g ref="char:EOLhyphen"/>fending Poetry (whose several beauties make up the shape of the <hi>Opera</hi>) I will conclude in ex<g ref="char:EOLhyphen"/>cuse and defence of her Enemy; who hath much reason to di<g ref="char:EOLhyphen"/>swade you from Moral Repre<g ref="char:EOLhyphen"/>sentations, because he is himself the worst representation of Morality; and is justly afraid to be represented in the <hi>Theater.</hi>
+                  </p>
+               </sp>
+               <stage>
+                  <pb n="41" facs="tcp:170212:25"/> The Curtains are sud<g ref="char:EOLhyphen"/>denly clos'd, and the Company enter<g ref="char:EOLhyphen"/>tain'd by Instru<g ref="char:EOLhyphen"/>mental and Vocal Musick with this Song.</stage>
+            </div>
+            <div type="song">
+               <pb n="42" facs="tcp:170212:26"/>
+               <head>Song.</head>
+               <lg>
+                  <head>1.</head>
+                  <l>DId ever War so cease</l>
+                  <l>That all might Olive wear?</l>
+                  <l>All sleepy grow with Peace,</l>
+                  <l>And none be wak'd with fear?</l>
+               </lg>
+               <lg>
+                  <head>2.</head>
+                  <l>Does Time want Wings to fly,</l>
+                  <l>Or Death ere make a stand?</l>
+                  <l>Men must grow old and die:</l>
+                  <l>Storms drive us from Sea to Tempests at Land.</l>
+               </lg>
+               <lg>
+                  <head>Chorus.</head>
+                  <l>This through his Tub the Cynick saw;</l>
+                  <l>Where vainly with Time he did strive,</l>
+                  <l>And in vain from Death did withdraw</l>
+                  <l>By bury'ng himself alive.</l>
+               </lg>
+               <lg>
+                  <pb n="43" facs="tcp:170212:26"/>
+                  <head>1.</head>
+                  <l>The Poets they are wise</l>
+                  <l>All evils they expect,</l>
+                  <l>And so prevent surprize,</l>
+                  <l>Whilst troubles they neglect.</l>
+               </lg>
+               <lg>
+                  <head>2.</head>
+                  <l>Can Age ere do them harm</l>
+                  <l>Who chearfully grow old?</l>
+                  <l>Mirth keeps their hearts stil warm</l>
+                  <l>Fools think themselves safe in sorrow and cold.</l>
+               </lg>
+               <lg>
+                  <head>Chorus.</head>
+                  <l>Then let the sour Cynick live coopt;</l>
+                  <l>Let him quake in his thrid-bare cloak</l>
+                  <l>Till he find his old Tub unhoopt,</l>
+                  <l>His Staff and his Lanthorn broke.</l>
+               </lg>
+            </div>
+            <div type="scene">
+               <pb n="44" facs="tcp:170212:27"/>
+               <stage>The Song being ended, A Consort of Instru<g ref="char:EOLhyphen"/>mental Musick, after the French Composition, being heard a while, the Curtains are sud<g ref="char:EOLhyphen"/>denly open'd, and in the <hi>Rostras</hi> appear sitting a <hi>Parisian</hi> and a <hi>Londoner</hi> in the Livery Robes of
+<pb n="45" facs="tcp:170212:27"/>both Cities, who De<g ref="char:EOLhyphen"/>claim concerning the prae-eminence of <hi>Paris</hi> and <hi>London.</hi>
+               </stage>
+               <sp>
+                  <speaker>The <hi>Parisian.</hi>
+                  </speaker>
+                  <p>YOu of this Noble City, are yet to be<g ref="char:EOLhyphen"/>come more noble by your candor to the Plea, between me a <hi>Bourgois</hi> of <hi>Paris,</hi> and my opponent of <hi>London:</hi> being concern'd in honour to lend your attention as favourably to a stranger as to your Native Oratour: since
+<pb n="46" facs="tcp:170212:28"/>'tis the greatest signe of narrow education to permit the borders of Rivers, or strands of Seas, to separate the general consan<g ref="char:EOLhyphen"/>guinity of Mankinde: though the unquiet nature of man (still hoping to shake off distant power, and the incapacity of any one to sway universal Em<g ref="char:EOLhyphen"/>pire) hath made them the bounds to divide Government. But already I think it necessary to cease perswading you, who will ever deserve to be my Judges, and therefore mean to apply my self in admonishing him who is pleas'd to be a while my adversary.</p>
+                  <p>My most opiniater'd <hi>An<g ref="char:EOLhyphen"/>tagonist</hi> (for a <hi>Londoners</hi> opini<g ref="char:EOLhyphen"/>on of himself is no less noted then his opinion of his <hi>Beef</hi> be<g ref="char:EOLhyphen"/>fore the <hi>Veal</hi> of <hi>Italy</hi>) you
+<pb n="47" facs="tcp:170212:28"/>should know that the merit of Cities consists not in their fair and fruitful scituation, but in the manners of the Inhabitants: for where the scituation excels it but upbraids their minds if they be not proportionable to it. And, because we should more except against the con<g ref="char:EOLhyphen"/>stancy of minds then their mu<g ref="char:EOLhyphen"/>tability, when they incline to error; I will first take a survey of yours in the long continu'd deformity of the shape of your City, which is, of your Build<g ref="char:EOLhyphen"/>ings.</p>
+                  <p>Sure your Ancestors con<g ref="char:EOLhyphen"/>triv'd your narrow streets in the days of Wheel-barrows, before those greater Engines, Carts, were invented. Is your Cli<g ref="char:EOLhyphen"/>mate so hot, that as you walk, you need Umbrella's of Tiles
+<pb n="48" facs="tcp:170212:29"/>to intercept the Sun? Or are your shambles so empty, that you are afraid to take in fresh Ayr, lest it should sharpen your stomacks? Oh the goodly Landskip of old Fish-street! which, had it not had the ill luck to be crooked, was narrow enough to have been your Founders Perspective: and where the Garrets (perhaps not for want of Architecture, but through abundance of amity) are so made, that opposite Neighbours may shake hands without stirring from home. Is unanimity of Inhabitants in wise Cities better exprest then by their coherence and unifor<g ref="char:EOLhyphen"/>mity of Building? Where Streets, begin, continue, and end in a like stature and shape: but yours (as if they were rais'd
+<pb n="49" facs="tcp:170212:29"/>in a general insurrection, where every man hath a several de<g ref="char:EOLhyphen"/>signe) differ in all things that can make distinction. Here stands one that aims to be a Pa<g ref="char:EOLhyphen"/>lace, and, next it, another that professes to be a Hovel. Here a Giant, there a Dwarf, here slender, there broad; and all most admirably different in their faces as well as in their height and bulk. I was about to defie any Londoner, who dares pretend there is so much ingenious correspondence in this City, as that he can shew me one House like another. Yet your old Houses seem to be re<g ref="char:EOLhyphen"/>verend and formal, being com<g ref="char:EOLhyphen"/>par'd to the fantastical looks of the Modern; which have more Ovals, Nieches, and Angles, then are in your Custards; and
+<pb n="50" facs="tcp:170212:30"/>are enclos'd with Pasteboard wals, like those of malicious Turks, who because themselves are not immortal, and cannot ever dwell where they build, therefore will not be at charge to provide such lastingness as may entertain their children out of the Rain; so slight, and so pretily gaudy, that if they could move, they would pass for Pa<g ref="char:EOLhyphen"/>geants. 'Tis your custom, where men vary often the mode of their habits, to term the Nation fantastical; but where streets continually change fa<g ref="char:EOLhyphen"/>shion, you should make haste to chain up the City; for 'tis certainly mad.</p>
+                  <p>You would think me a mali<g ref="char:EOLhyphen"/>cious Traveller, if I should still gaze on your mishapen streets, and take no notice of the beau<g ref="char:EOLhyphen"/>ty
+<pb n="51" facs="tcp:170212:30"/>of your River; therefore I will pass the importunate noise of your Water-men (who snatch at Fares as if they were to catch Prisoners, plying the Gentry so uncivilly, as if they never had row'd any other pas<g ref="char:EOLhyphen"/>sengers but Bear wards) and now step into one of your pes<g ref="char:EOLhyphen"/>cod-boats; whose Tilts are not so sumptuous as the roofs of <hi>Gundaloes,</hi> nor, when you are within, are you at the ease of <hi>Chaise a bras.</hi> The commodi<g ref="char:EOLhyphen"/>ty and trade of your River be<g ref="char:EOLhyphen"/>longs to your selves; but give a stranger leave to share in the pleasure of it, which will hard<g ref="char:EOLhyphen"/>ly be in the prospect or freedom of Ayr; unless prospect, con<g ref="char:EOLhyphen"/>sisting of variety, be made up with here a Palace, there a Wood-yard, here a Garden,
+<pb n="52" facs="tcp:170212:31"/>there a Brew-house: Here dwels a Lord, there a Dyer, and be<g ref="char:EOLhyphen"/>tween both <hi>Duomo Comune.</hi> If freedom of Ayr be inferr'd in the liberty of the Subject, where every private man hath authority, for his own profit, to smoak up a Magistrate; then the Ayr of your <hi>Thames</hi> is open enough, because 'tis equally free. I will forbear to visit your Courtly Neighbours at <hi>Wapping,</hi> not that it will make me giddy to shoot your Bridge, but that I am loth to disturb the civil silence of <hi>Billings-gate,</hi> which is so great, as if the Ma<g ref="char:EOLhyphen"/>riners were alwaies landing to storm the Harbour, therefore for brevities sake, I will put to shore again, though I should be constrain'd, even without my Galoshoes, to land at Puddle-Dock.</p>
+                  <pb n="53" facs="tcp:170212:31"/>
+                  <p> I am now return'd to visit your Houses, where the Roofs are so low, that I presume your Ancestors were very mannerly, and stood bare to their wives; for I cannot discern how they could wear their high crown'd Hats; yet I will enter, and therein oblige you much when you know my aversion to the odor of a certain weed that go<g ref="char:EOLhyphen"/>verns amongst your courser ac<g ref="char:EOLhyphen"/>quaintance as much as Laven<g ref="char:EOLhyphen"/>der amongst your courser lin<g ref="char:EOLhyphen"/>nen: to which, in my apprehen<g ref="char:EOLhyphen"/>sion, your Sea-coal smoak seems a very <hi>Portugal</hi> perfume. I should here hasten to a peri<g ref="char:EOLhyphen"/>od, for fear of suffocation, if I thought you so ungracious as to use it in publike Assemblies: and yet I see it grow so much in fashion, that me-thinks, your
+<pb n="54" facs="tcp:170212:32"/>children begin to play with broken Pipes, instead of Co<g ref="char:EOLhyphen"/>rals, to make way for their Teeth. You will find my visit short, I cannot stay to eat with you, because your bread is too heavie, and you disdain the light sustenance of Herbs. Your drink is too thick, and yet you are seldom over-curious in washing your glasses. Nor will I lodge with you, because your beds seem, to our <hi>Alco<g ref="char:EOLhyphen"/>vaes,</hi> no bigger then Coffins; and your Curtains so short, as they will hardly serve to inclose your Carriers in Summer; and may be held, if <hi>Taffata,</hi> to have lin'd your Grandsires skirts.</p>
+                  <p>But though your Houses are thin, yet your Kitchins are well lin'd with Beef; and the plenti<g ref="char:EOLhyphen"/>ful
+<pb n="55" facs="tcp:170212:32"/>exercise of your chimneys makes up that canopy of smoak which covers your City; whilst those in the Continent are well contented with a clear sky, entertain flesh as a <hi>Regalio;</hi> and we, your poor French Frogs, are fain to sing to a Sa<g ref="char:EOLhyphen"/>lade. You boast that your ser<g ref="char:EOLhyphen"/>vants feed better then Masters at <hi>Paris;</hi> and we are satisfi'd when ours are better taught then fed. You allow yours idleness and high nourishment, to raise their mettal; which is, to make them rude for the honour <hi>of old England.</hi> We inure ours to labour and temperance, that we may allay them; which is, to make them civil for the qui<g ref="char:EOLhyphen"/>et of <hi>France.</hi> Yours drink Wine, and the strong broth of Malt, which makes them bold,
+<pb n="56" facs="tcp:170212:33"/>hot, and adventurous to be soon in command. Ours are cool'd with weak water, which doth quench their arrogance, and make them fit to obey long. We plant the Vinyard, and you drink the Wine; by which you beget good spirits, and we get good money. You keep open houses for all that bring you in mirth, till your Estates run out of Dores and finde new Land<g ref="char:EOLhyphen"/>lords. We shut our Gates to all but such whose conversation brings in profit, and so by the help of what you call ill nature and parsimonie, have the good luck to keep our inheritances for our Issue.</p>
+                  <p>Before I leave you in your Houses (where your Estates are mannag'd by your servants, and your persons educated by your
+<pb n="57" facs="tcp:170212:33"/>Wives) I will take a short sur<g ref="char:EOLhyphen"/>vey of your children; to whom you are so terrible, that you seem to make use of authority whilst they are young, as if you knew it would not continue till their manhood. You begin to them with such rough disci<g ref="char:EOLhyphen"/>pline, as if they were born mad, and you meant to fright them into their wits again be<g ref="char:EOLhyphen"/>fore they had any to lose. When they encrease in years, you make them strangers; keeping them at such distance, out of jealousie they should presume to be your companions, that when they reach manhood, they use you as if they were none of your acquaintance. But we sub<g ref="char:EOLhyphen"/>mit to be familiar with ours, that we may beget their affecti<g ref="char:EOLhyphen"/>on before 'tis too late to expect
+<pb n="58" facs="tcp:170212:34"/>it. If you take pains to teach them any thing, 'tis only what they should not learn, Bashful<g ref="char:EOLhyphen"/>ness; which you interpret to be their respect towards you, but it rather shews they are in trou<g ref="char:EOLhyphen"/>ble, and afraid of you; and not only of you, but of all that are elder then themselves; as if youth were a crime, or, as if you had a greater quarrel to Nature then to the Divel; you seem to teach them to be asham'd of their persons, even then when you are willing to excuse their faults. Me-thinks when ours are grave they are but dull; and we are content not to have them demure and tame whilst they are youths, lest re<g ref="char:EOLhyphen"/>straint (which alwaies enclines to extreams when it is chang'd to liberty) should make them
+<pb n="59" facs="tcp:170212:34"/>rude and wilde when they are men.</p>
+                  <p>This education you give them at home; but though you have frequently the pride to disdain the behaviour of other Nati<g ref="char:EOLhyphen"/>ons, yet you have somtimes the discretion to send your sons a<g ref="char:EOLhyphen"/>broad to learn it. To <hi>Paris</hi> they come; the School of <hi>Eu<g ref="char:EOLhyphen"/>rope;</hi> where is taught the ap<g ref="char:EOLhyphen"/>proaches and demeanours to<g ref="char:EOLhyphen"/>wards Power: where they may learn honour; which is the ge<g ref="char:EOLhyphen"/>nerous honesty, and confidence, which is the civil boldness of Courts. But there they arrive not to converse with us, but with themselves; to see the Gates of the Court, not to en<g ref="char:EOLhyphen"/>ter and frequent it; or to take a hasty survey of Greatness, as far as Envie, but not to study
+<pb n="60" facs="tcp:170212:35"/>it, as far as imitation. At last return home, despising those necessary virtues which they took not pains to acquire; and are only ill alter'd in their dress and mind, by making that a de<g ref="char:EOLhyphen"/>formity in seeming over careful and forc'd, which we make graceful in being negligent and easie.</p>
+                  <p>I have now left your Hou<g ref="char:EOLhyphen"/>ses, and am passing through your streets; but not in a Coach, for they are uneasily hung, and so narrow, that I took them for <hi>Sedans</hi> upon wheels: Nor is it safe for a stranger to use them till the quarrel be decided, whether Six of your Nobles, sitting to<g ref="char:EOLhyphen"/>gether, shall stop, and give place to as many Barrels of Beer. Your City is the only
+<pb n="61" facs="tcp:170212:35"/>Metropolis of <hi>Europe</hi> where there is a wonderful dignity be<g ref="char:EOLhyphen"/>longing to Carts. Master <hi>Lon<g ref="char:EOLhyphen"/>doner!</hi> be not so hot against Coaches: take advice from one that eats much sorrel in his broth. Can you be too civil to such a singular Gentry as bravely scorn to be provident? who, when they have no busi<g ref="char:EOLhyphen"/>ness here to employ them, nor publike pleasures to divert them, yet even then kindly in<g ref="char:EOLhyphen"/>vent occasions to bring them hither, that, at your own rates, they may change their Land for your wares; and have purpose<g ref="char:EOLhyphen"/>ly avoided the course study of Arithmetique, lest they should be able to affront you with ex<g ref="char:EOLhyphen"/>amining your accompts.</p>
+                  <p>I wonder at your Riches when I see you drink in the
+<pb n="62" facs="tcp:170212:36"/>morning; but more at your confidence, when I see gray Beards come out of a Tavern and stay at the Dore to make the last debate of their business; and I am yet more amaz'd at your health when I taste your wine; but most of all at your Politicks, in permitting such a publique poysoning under the stile of free Mysterie to encou<g ref="char:EOLhyphen"/>rage Trade and Diligence.</p>
+                  <p>I would now make a safe re<g ref="char:EOLhyphen"/>treat, but that me-thinks I am stopt by one of your Heroick Games, call'd <hi>Foot-ball;</hi> which I conceive (under your favour) not very conveniently civil in the streets; especially in such irregular and narrow Roads as <hi>Crooked Lane.</hi> Yet it argues your Courage much like your other Military pastime of
+<pb n="63" facs="tcp:170212:36"/>throwing at Cocks. But your mettal would be more magni<g ref="char:EOLhyphen"/>fi'd (since you have long al<g ref="char:EOLhyphen"/>low'd those two valiant exerci<g ref="char:EOLhyphen"/>ses in the streets) to draw your Archers from <hi>Finsbury,</hi> and during high Market, let them shoot at Butts in <hi>Cheapside.</hi> I have now no more to say but what refers to a few private Notes which I shall give you in a whisper when we meet in <hi>Moor-fields;</hi> from whence (be<g ref="char:EOLhyphen"/>cause the place was meant for publique pleasure, and to shew the munificence of your City) I shall desire you to banish the Landeresses and Blechers, whose acres of old linnen make a shew like the Fields of <hi>Carthagena,</hi> when the five mo<g ref="char:EOLhyphen"/>neths shifts of the whole Fleet are washt and spread: ot else
+<pb n="64" facs="tcp:170212:37"/>you will give me leave to con<g ref="char:EOLhyphen"/>clude in behalf of <hi>Luxemberg</hi> and the <hi>Tuilleries,</hi> as no ill ac<g ref="char:EOLhyphen"/>comodations for the Citizens of <hi>Paris.</hi>
+                  </p>
+               </sp>
+               <stage>
+                  <pb n="65" facs="tcp:170212:37"/>
+                  <hi>After a Consort of Musick, imita<g ref="char:EOLhyphen"/>ting the</hi> Waites <hi>of</hi> London, <hi>the</hi> Lon<g ref="char:EOLhyphen"/>doner <hi>rises, and thus answers.</hi>
+               </stage>
+               <sp>
+                  <pb n="66" facs="tcp:170212:38"/>
+                  <speaker>The <hi>Londoner.</hi>
+                  </speaker>
+                  <p>EVer Noble and most sufficient Judges; I am so little angry with my adversary, that I am ready to entitle him, as a stranger, to protection from you and civility from my self. You finde, in his survey of this Renown'd City, he has under<g ref="char:EOLhyphen"/>taken to be pleasant, and to make you so too: but men who are pleas'd themselves, cannot when they list disperse their gay humour amongst others: it be<g ref="char:EOLhyphen"/>ing much more easie to incite to anger then to mirth. I presume I am so far from needing the advantage, or from growing
+<pb n="67" facs="tcp:170212:38"/>insolent with the honour, of having you my Judges, that I refer my self to him; whilst I present him <hi>Paris</hi> in the same Glass where he reflected <hi>Lon<g ref="char:EOLhyphen"/>don:</hi> and he is not a little ob<g ref="char:EOLhyphen"/>lig'd in being made capable of reforming his judgment by the helps of comparison.</p>
+                  <p>Give me leave <hi>(Monsieur de Paris)</hi> to be conducted from <hi>Diepe</hi> by one of your <hi>Messagers,</hi> (who are as Magisterial on the Road as old Rangers in a For<g ref="char:EOLhyphen"/>rest) and on my Norman Nag (which though it has not as ma<g ref="char:EOLhyphen"/>ny legs as a Caterpillar, yet by the advantage of being well spurr'd, makes shift to travel as fast) I enter your City at <hi>Porte S<seg rend="sup">t</seg> Martin;</hi> and ere I light, would be glad, by leaving a limb, to compound for the rest
+<pb n="68" facs="tcp:170212:39"/>of my body; so furious are you in your hospitality when you call aloud and take in strangers, spight of their Teeth, into your Houses, and lodge them for more then enough of their money. But such impor<g ref="char:EOLhyphen"/>tunity, and even for mean pro<g ref="char:EOLhyphen"/>fit, should rather be interpre<g ref="char:EOLhyphen"/>ted as the vehemence of a witty People, that have hot brains, then as the signs of general Po<g ref="char:EOLhyphen"/>verty: Whilst we, phlegma<g ref="char:EOLhyphen"/>tique Islanders, are too dull to be so troublesome for a little money as may shew we want it.</p>
+                  <p>Before I enter your Hou<g ref="char:EOLhyphen"/>ses, I cannot chuse but take no<g ref="char:EOLhyphen"/>tice of your streets; by which I discern, though you are now unanimously glorious, yet your Ancestors and you had diffe<g ref="char:EOLhyphen"/>rent
+<pb n="69" facs="tcp:170212:39"/>minds; for though <hi>lae Rue St. Antoine, St Honoré,</hi> and <hi>St. Denis</hi> are large enough for the <hi>Vista;</hi> yet <hi>lae Rue Tirechape, la Tannerie,</hi> and <hi>la Huchette</hi> stand so much in the shade, that there your beautiful Wives need nei<g ref="char:EOLhyphen"/>ther Vails nor Fans; you being fain to lay traps at your win<g ref="char:EOLhyphen"/>dows to catch the Sun-beams. But this, you will say, was the defect of our Ancestors, not of yours; who, in a wandring humour, made bold to cross the Channel, march up to <hi>Pa<g ref="char:EOLhyphen"/>ris,</hi> and build your Houses af<g ref="char:EOLhyphen"/>ter their own fashion.</p>
+                  <p>As I pass along, I bow be<g ref="char:EOLhyphen"/>fore every Palace; but 'tis to the Giant <hi>Swiz</hi> that stands in carbonaded breeches at the Gate; who coming a long journey, meerly to keep your
+<pb n="70" facs="tcp:170212:40"/>Natives in awe, has reason to expect reverence from a stran<g ref="char:EOLhyphen"/>ger. Now me-thinks you wish the Gout in my Finger, because I point not with great wonder at the <hi>Louvre;</hi> which I confess has a very singular way of being wonderful; the fame of the Palace consisting more in the vast design of what it was meant to be, then in the largeness of what it is: the stru<g ref="char:EOLhyphen"/>cture being likewise a little re<g ref="char:EOLhyphen"/>markable for what is old, but more even for the antiquity of what is new; having been be<g ref="char:EOLhyphen"/>gun some Ages past, and is to be finish'd many Ages hence; which (I take it) may be a signe of the glory, but not of the wealth of your Founders. I will pass into your <hi>Faux<g ref="char:EOLhyphen"/>bourgs</hi> by <hi>Pont Rouge;</hi> a Bridge
+<pb n="71" facs="tcp:170212:40"/>not built to be useful to you in the strength of it, but rather to shew the strength of your Ri<g ref="char:EOLhyphen"/>ver to strangers, when, mau<g ref="char:EOLhyphen"/>gre your Guards of <hi>Switz,</hi> it often carries an Arch out of your City.</p>
+                  <p>Already (me-thinks) passing o'er this Bridge, I stop at a bro<g ref="char:EOLhyphen"/>ken Arch; and finding my self a heavie <hi>Londoner,</hi> who wants the French vivacity to frisk o'er so wide a gap to the <hi>Fauxbourgs,</hi> I am willing to return, that I may afford you the civility of taking more notice of the or<g ref="char:EOLhyphen"/>naments of your River. I finde your Boats much after the plea<g ref="char:EOLhyphen"/>sant shape of those at common Ferries; where your <hi>Bastelier</hi> is not so turbulently active as our Watermen, but rather (his Fare being two brass-<hi>Liards</hi>)
+<pb n="72" facs="tcp:170212:41"/>stands as sullen as an old Dutch Skipper after shipwrack, and will have me attend till the rest of the Herd make up his fraight; passing in droves like Cattel; the embroyder'd and perfum'd with Carters and <hi>Crocheteurs;</hi> all standing during the voyage as if we were ready to land as soon as we put from shore; and with his long pole gives us a tedious waft, as if he were all the while poching for Eels. We neither descend by stairs when we come in, nor ascend when we go out, but crawl through the mud like Cray-fish, or Anglers in a new Plantation. I could wish you had the adornments of wall'd banks; but in this witty Regi<g ref="char:EOLhyphen"/>on of Civility, as well as in our dull rude Town, I perceive
+<pb n="73" facs="tcp:170212:41"/>there is not a perfect coherence in all the parts of magnificence.</p>
+                  <p>I will now visit your houses; which I confess transcendent as Towers, compar'd to the sta<g ref="char:EOLhyphen"/>ture of those in our City; but as they ate as high roost as our Belfries; so have they in them more then the noise of our Bells; lodging distress'd Fa<g ref="char:EOLhyphen"/>milies in a Room; and where there is no plenty, there is sel<g ref="char:EOLhyphen"/>dome quietness. This <hi>Chorus</hi> of clamour from several ap<g ref="char:EOLhyphen"/>partments will be sooner ac<g ref="char:EOLhyphen"/>knowledg'd, when you consi<g ref="char:EOLhyphen"/>der that your Nation affects not such brevity of speech as was practis'd by the <hi>Spartans,</hi> nor that Majestical silence which is us'd by the Turks. But I accuse you of that of which you may take occasion to boast;
+<pb n="74" facs="tcp:170212:42"/>because the stuffing of Rooms with whole Families, denotes a populous City. But farewel the happiness of the Nation when the populousness of the City argues the litigiousness of the Country; where, with a multitude of <hi>Procez</hi> you lose your wits, and afterwards come up to live by them at <hi>Paris.</hi> Though you are shie to eat at our Entertainments, yet I would accept of yours, if you were not hinder'd from giving any by the great expence of your Habits and superfluous Trains. And I would drink with you, if you were as pos'd and grave in your Wine as we dull Trafiquers, who use it to sharpen our Wits when we conclude Bargains. But I have a mind to suppose (under your
+<pb n="75" facs="tcp:170212:42"/>favour) that your heads are bottles, and your brains the Cork; for the one, being a little stirr'd, the other fly out, and fill the Room with froth. I would lodg with you, but that your large Beds are taken up with <hi>Punezes;</hi> which our skins (being tender, and not so much condens'd by the cold as you imagine) can ill endure, and worse permit the ubiquitary at<g ref="char:EOLhyphen"/>tacks of those dext'rous little persecutors, which suit more with the nimble disposition of men of your Climate, then those other slow enemies which were bred in <hi>Italy.</hi>
+                  </p>
+                  <p>Noise in your habitations of sleep is not so improper as your dead silence in the very Regions of noise, your Kitchins; where your Cooks (though by educa<g ref="char:EOLhyphen"/>tion
+<pb n="76" facs="tcp:170212:43"/>cholerick and loud) are ever in profound contemplation; that is, they are considering how to reform the mistakes of Nature in the original compo<g ref="char:EOLhyphen"/>sitions of Flesh and Fish; she having not known, it seems, the sufficient Mysterie of <hi>Haut<g ref="char:EOLhyphen"/>gouts:</hi> and the production of their deep studies are somtimes so full of delicious fancy, and witty seasoning, that at your Feasts when I uncover a Dish, I think I feed on a very <hi>Epi<g ref="char:EOLhyphen"/>gram.</hi> Who can comprehend the diversity of your <hi>Pottages, Carbonnades, Grillades, Ragouts, Haches, Saupiquets, Demi-Bisques, Bisques, Capilotades,</hi> and <hi>Entre-mets?</hi> But above all, I admire at the vast genera<g ref="char:EOLhyphen"/>tion of your Embroiderers of meat, your Larders; their
+<pb n="77" facs="tcp:170212:43"/>larding being likewise diversi<g ref="char:EOLhyphen"/>fi'd from Bacon of <hi>Mayence</hi> to <hi>Porpoise</hi> of S<seg rend="sup">t</seg>
+                     <hi>Malo;</hi> which, though it may be some cause of obliging and calling in the Jews, yet your perpetual per<g ref="char:EOLhyphen"/>secution of that poor fish will so drive away the species from your Coasts, as you will never be able to foretel a storm.</p>
+                  <p>These are your Feasts, which are but Fasts to your servants; who being confin'd within the narrow bounds of Pension, are accomptable for all the Orts by weight; for which your suffici<g ref="char:EOLhyphen"/>ent reason is, because such as are ordain'd to service, should be continually allay'd by Tem<g ref="char:EOLhyphen"/>perance, lest they might lose obedience. Your sons you dignific betimes with a taste of pleasure and liberty; which
+<pb n="78" facs="tcp:170212:44"/>perhaps breeds in them (that they may maintain the vast ex<g ref="char:EOLhyphen"/>pences of high pleasure) too hasty and violent an appetite to such Power as makes them, when they are men, soon tur<g ref="char:EOLhyphen"/>bulent to Supream Authority. When they provoke a Province to rise against the Court, 'tis excus'd as high Gallantry, and in fashion whilst they are young and strongly attended; but 'tis call'd Treason when they grow old and deserted. Here I ex<g ref="char:EOLhyphen"/>pect your rebuke; for why should I censure the education of your children, since we send ours to learn the honour and deportment of Manhood at <hi>Paris?</hi> Yet I will recommend one consideration to your City as well as to our own; whether the ancient jurisdiction of Pa<g ref="char:EOLhyphen"/>rents
+<pb n="79" facs="tcp:170212:44"/>and Masters, when it was severe, did not make all degrees of humane life more quiet and delightful then we have found it since that priviledge hath been ignorantly and negligent<g ref="char:EOLhyphen"/>ly lost.</p>
+                  <p>You are disorder'd with the rudeness in our streets; but have more reason to be terrifi'd with the frequent insurrections in your own. In ours, a few disturb the quiet of Coaches; but in yours, whole Armies of Lackies invade the peace of publique Justice; whose Image (were the Tumult drawn by a Poetical Painter) you would imagine fencing with a broad sword, like an old grave <hi>Switz</hi> against the <hi>Tucks</hi> of fantastical Pages; who strive to rescue the condemn'd, as if the <hi>Nobless</hi>
+                     <pb n="80" facs="tcp:170212:45"/>were concern'd in honour not to suffer malefactors to be affront<g ref="char:EOLhyphen"/>ed by a base Executioner on the Scaffold for so generous an exercise as killing. But when I observ'd your <hi>Twelfe-Nights,</hi> with the universal shout of <hi>le Roy boit,</hi> I could not but think that the whole Vintage of <hi>France</hi> was in the heads of the servants of <hi>Paris.</hi>
+                  </p>
+                  <p>I will now suppose it late, and that I am retiring to my Countrey-men at the good <hi>Hostel de Venise;</hi> but shall make haste; for you must needs ac<g ref="char:EOLhyphen"/>knowledge the famous dangers of <hi>Pont Neuf</hi>; where Robbing is as constant and as hereditary a Trade as amongst the <hi>Arubs;</hi> where old Grandfathers-<hi>Filous,</hi> in beards fit to be reverenc'd by all that scape their clutches, set
+<pb n="81" facs="tcp:170212:45"/>the watch (which confists whol<g ref="char:EOLhyphen"/>ly of their Grand-children) carefully at nine at night, and take it as want of respect in such who are so indecent as to pass that way in their old Cloaks.</p>
+                  <p>When I consider both our Cities, I conclude they were built and are inhabited by mor<g ref="char:EOLhyphen"/>tal men; therefore am resolv'd to burn some private Notes which I intended to impart in answer of those that you re<g ref="char:EOLhyphen"/>ferr'd to our next meeting, If I could reach your hand, I would endeavour to kiss it; for I should account my self worse bred then in a Forrest if I had not learn'd a little from the aboundant Civility of <hi>Pa<g ref="char:EOLhyphen"/>ris;</hi> where I have heard of two aged <hi>Crocheteurs,</hi> heavie loaden with billets, who were so equal<g ref="char:EOLhyphen"/>ly
+<pb n="82" facs="tcp:170212:46"/>concern'd in the punctilios of Salutation, and of giving the way, that with the length of Ceremony, <hi>(Monsieur cest a vous, Monsieur vous vous mo<g ref="char:EOLhyphen"/>quès de vostre Serviteur)</hi> they both sunk under their burdens, and so dy'd, dividing the eter<g ref="char:EOLhyphen"/>nal honour of <hi>Genty Educa<g ref="char:EOLhyphen"/>tion.</hi>
+                  </p>
+               </sp>
+               <stage>
+                  <pb n="83" facs="tcp:170212:46"/>
+                  <hi>The Curtains are sud<g ref="char:EOLhyphen"/>denly clos'd, and the Company enter<g ref="char:EOLhyphen"/>tain'd by Instru<g ref="char:EOLhyphen"/>mental and Vocal Musick with this Song.</hi>
+               </stage>
+            </div>
+            <div type="song">
+               <pb n="84" facs="tcp:170212:47"/>
+               <head>Song.</head>
+               <lg>
+                  <head>1.</head>
+                  <l>LOndon is smother'd with sul<g ref="char:EOLhyphen"/>ph'rous fires;</l>
+                  <l>Still she wears a black Hood and Cloak,</l>
+                  <l>Of sea-coal smoak,</l>
+                  <l>As if she mourn'd for Brewers and Dyers.</l>
+               </lg>
+               <lg>
+                  <head>Chorus.</head>
+                  <l>But she is cool'd and clens'd by streams</l>
+                  <l>
+                     <hi>Of flowing and of ebbing</hi> Thames.</l>
+               </lg>
+               <lg>
+                  <pb n="85" facs="tcp:170212:47"/>
+                  <head>2.</head>
+                  <l>Though <hi>Paris</hi> may boast a clearer Shy,</l>
+                  <l>Yet wanting flows and ebbs of <hi>Sene,</hi>
+                  </l>
+                  <l>To keep her clean,</l>
+                  <l>She ever seems choakt when she is dry.</l>
+               </lg>
+               <lg>
+                  <head>Chorus.</head>
+                  <l>And though a <hi>Ship</hi> her Scutcheon be,</l>
+                  <l>Yet <hi>Paris</hi> hath no Ship at Sea.</l>
+               </lg>
+               <gap reason="duplicate" extent="1 page">
+                  <desc>〈1 page duplicate〉</desc>
+               </gap>
+               <pb n="84" facs="tcp:170212:48"/>
+               <gap reason="duplicate" extent="1 page">
+                  <desc>〈1 page duplicate〉</desc>
+               </gap>
+               <pb n="85" facs="tcp:170212:48"/>
+            </div>
+            <div type="epilogue">
+               <pb n="86" facs="tcp:170212:49"/>
+               <stage>The Song ended the Curtains are drawn open again, and the <hi>Epilogue</hi> enters.</stage>
+               <sp>
+                  <pb facs="tcp:170212:49"/>
+                  <speaker>Epilogue.</speaker>
+                  <l>TOo late we told you, some two Hours ago,</l>
+                  <l>The ills which you were sure, too soon to know.</l>
+                  <l>Had we fore-warn'd you but the day before,</l>
+                  <l>By half so much, said at our out<g ref="char:EOLhyphen"/>ward door,</l>
+                  <l>We had been civil, but had weakly shown</l>
+                  <l>More care to watch your profit then our own.</l>
+                  <l>We have your Money, true; if you can call</l>
+                  <l>That ours, of which we make no use at all.</l>
+                  <l>The Poets never mind such toys as these—
+<stage>Shews mo<g ref="char:EOLhyphen"/>ney in his hand.</stage>
+                  </l>
+                  <l>But keep them to be sent for when you please.</l>
+                  <pb facs="tcp:170212:50"/>
+                  <l> At worst (if you may credit, in frail times,</l>
+                  <l>Bankers, who turn and wind a world of Rimes)</l>
+                  <l>They are but bow'd, laid in a Trunk above,</l>
+                  <l>And kept, as simple Tokens of your love.</l>
+                  <l>If this were raillery, it could not please,</l>
+                  <l>After a tedious dull <hi>Dioge<g ref="char:EOLhyphen"/>nes:</hi>
+                  </l>
+                  <l>A Poet a mile longer, then, two more,</l>
+                  <l>To vex you, having heard too much before.</l>
+                  <l>Perhaps, some were so couzen'd as to come,</l>
+                  <l>To see us Weave in the Drama<g ref="char:EOLhyphen"/>tique Loom:</l>
+                  <l>To trace the winding Scenes, like subtle Spies,</l>
+                  <l>Bred in the Muses Camp, safe from surprize:</l>
+                  <pb facs="tcp:170212:50"/>
+                  <l> Where you by Art learn joy, and when to mourn;</l>
+                  <l>To watch the Plots swift change, and counterturn:</l>
+                  <l>When Time moves swifter then by Nature taught;</l>
+                  <l>And by a <hi>Chorus</hi> miracles are wrought;</l>
+                  <l>Making an Infant instantly a Man:</l>
+                  <l>These were your Plays, but get them if you can.</l>
+               </sp>
+               <stage>
+                  <pb facs="tcp:170212:51"/> After a Flourish of loud Musick, the Curtain is clos'd, and the Entertain<g ref="char:EOLhyphen"/>ment ended.</stage>
+               <byline>
+                  <pb facs="tcp:170212:51"/>
+                  <hi>The</hi> Vocal <hi>and</hi> Instru<g ref="char:EOLhyphen"/>mental Musick <hi>was compos'd by Doctor</hi> Charles Coleman, <hi>Capt.</hi> Henry Cook, <hi>Mr</hi> Henry Lawes, <hi>and Mr</hi> George Hudson.</byline>
+            </div>
+         </div>
+      </body>
+   </text>
+</TEI>
